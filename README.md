@@ -10,7 +10,7 @@ This repository serves as a learning hub for those interested in building AI age
 
 - CrewAI
 - PhiData
-- SmolaGents
+- smolagents
 - More coming soon!
 
 ## Getting Started
