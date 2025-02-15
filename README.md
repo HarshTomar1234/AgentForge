@@ -11,6 +11,9 @@ This repository serves as a learning hub for those interested in building AI age
 - CrewAI
 - PhiData
 - smolagents
+- LlamaIndex
+- Langraph
+- Autogen
 - More coming soon!
 
 ## Getting Started
