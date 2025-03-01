@@ -13,7 +13,7 @@ This repository serves as a learning hub for those interested in building AI age
 - smolagents
 - LlamaIndex
 - Langraph
-- Autogen
+- AG2(AutoGen)
 - More coming soon!
 
 ## Getting Started
