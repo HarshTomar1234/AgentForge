@@ -14,6 +14,7 @@ This repository serves as a learning hub for those interested in building AI age
 - LlamaIndex
 - Langraph
 - AG2(AutoGen)
+- Langchain 
 - More coming soon!
 
 ## Getting Started
