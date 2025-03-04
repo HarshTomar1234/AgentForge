@@ -12,7 +12,7 @@ This repository serves as a learning hub for those interested in building AI age
 - PhiData
 - smolagents
 - LlamaIndex
-- Langraph
+- LangGraph
 - AG2(AutoGen)
 - Langchain 
 - More coming soon!
